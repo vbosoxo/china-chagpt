@@ -1,6 +1,6 @@
 # 【国内直连】国内可用的ChatGPT中文版镜像集合（2025年3月更新）
 
-> 更新时间：2025年03月14日
+> 更新时间：2025年03月16日
 
 全方位指南，带您轻松使用 ChatGPT 中文版，支持 GPT-4，无需翻墙！本文提供详细的 ChatGPT 中文版使用说明，包括镜像站推荐、官网注册教程以及常见问题解答，帮助您快速掌握 ChatGPT 的使用方法。
 
@@ -30,7 +30,7 @@ ChatGPT 中文版是 OpenAI 为中文用户优化的智能对话工具，专注�
 
 | 镜像站名称   | 地址                   | 支持版本      | 免费额度 | 注册方式   | 稳定性 | 功能亮点                                    |
 |--------------|------------------------|---------------|----------|------------|--------|---------------------------------------------|
-| 松鼠AI       | [https://songshugpt.com](https://songshugpt.com)        | GPT-4、4o、o1 | 有       | 扫码即可   | 高     | 支持 GPT、AI绘画、AI助手、AI插件、AI PPT等 |
+| 松鼠AI       | [https://songshugpt.com](https://songshugpt.com)        | GPT-4、GPT-o1、GPT-o3、Deepseek、Grok3 | 有       | 扫码即可   | 高     | 支持 GPT、AI绘画、AI助手、AI插件、AI PPT等 |
 | AI狗       | [https://gptdog.online/](https://gptdog.online/)          | GPT-4o、4o mini、o1 | 有    | 扫码即可   | 高     | 支持多模型，AI写作、AI编程、AI工作~        |
 | 猫猫AI    | [https://gptcat.net ](https://gptcat.net )             | GPT-4、o1     | 有       | 扫码即可   | 高     | 稳定快速，各种AI工具~                       |
 | PANDA AI       | [https://ai-panda.xyz](https://ai-panda.xyz)      | GPT-4、o1     | 有       | 扫码即可   | 高     | AI使用指南                                  |
