@@ -30,7 +30,7 @@ ChatGPT 中文版是 OpenAI 为中文用户优化的智能对话工具，专注�
 
 | 镜像站名称   | 地址                   | 支持版本      | 免费额度 | 注册方式   | 稳定性 | 功能亮点                                    |
 |--------------|------------------------|---------------|----------|------------|--------|---------------------------------------------|
-| 松鼠AI       | [https://songshugpt.com](https://songshugpt.com)        | GPT-4、GPT-o1、GPT-o3、Deepseek、Grok3 | 有       | 扫码即可   | 高     | 支持 GPT、AI绘画、AI助手、AI插件、AI PPT等 |
+| 松鼠AI       | [https://www.songshugpt.com](https://www.songshugpt.com)        | GPT-4、GPT-o1、GPT-o3、Deepseek、Grok3 | 有       | 扫码即可   | 高     | 支持 GPT、AI绘画、AI助手、AI插件、AI PPT等 |
 | AI狗       | [https://gptdog.online/](https://gptdog.online/)          | GPT-4o、4o mini、o1 | 有    | 扫码即可   | 高     | 支持多模型，AI写作、AI编程、AI工作~        |
 | 猫猫AI    | [https://gptcat.net ](https://gptcat.net )             | GPT-4、o1     | 有       | 扫码即可   | 高     | 稳定快速，各种AI工具~                       |
 | PANDA AI       | [https://ai-panda.xyz](https://ai-panda.xyz)      | GPT-4、o1     | 有       | 扫码即可   | 高     | AI使用指南                                  |
@@ -55,7 +55,7 @@ ChatGPT 中文版是 OpenAI 为中文用户优化的智能对话工具，专注�
 
 ## 如何快速开始使用 ChatGPT 中文版
 
-1. **选择镜像站点**：访问推荐镜像站点，如 [https://songshugpt.com](https://songshugpt.com)。
+1. **选择镜像站点**：访问推荐镜像站点，如 [https://www.songshugpt.com](https://www.songshugpt.com)。
 2. **注册账号**：使用邮箱或手机号完成注册。
 3. **选择模型**：根据需求选择 GPT-4 或 GPT-3.5。
 4. **开始体验**：输入问题，快速获得精准回答！
